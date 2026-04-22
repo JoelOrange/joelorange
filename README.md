@@ -6,6 +6,8 @@ Build a city from nothing, then hold it together long enough to win the next ele
 
 It is part strategy game, part political balancing act, and part evolving city story.
 
+Play the game here: https://joelorange.github.io/joelorange/
+
 ---
 
 ## What kind of game is this?
